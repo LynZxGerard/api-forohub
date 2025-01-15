@@ -11,6 +11,27 @@ Este proyecto es una **API REST** desarrollada en Java utilizando el framework *
 
 ---
 
+## 🛠️ Tecnologías utilizadas
+
+- **Lenguaje:** Java 21
+- **Framework:** Spring Boot
+- **Base de Datos:** MySQL
+- **Manejo de Dependencias:** Maven
+- **Librerías Adicionales:**
+  - **Spring Data JPA**: Para el manejo de la base de datos relacional y la persistencia de datos.
+  - **Spring Security**: Para la autenticación y autorización de usuarios.
+  - **Spring Boot Starter Validation**: Para la validación de datos de entrada en la API.
+  - **Spring Boot Starter Web**: Para construir y exponer APIs RESTful.
+  - **Flyway MySQL**: Gestión de migraciones de la base de datos.
+  - **MySQL Connector**: Conector JDBC para la base de datos MySQL.
+  - **Lombok**: Para reducir el código repetitivo mediante anotaciones como `@Getter` y `@Setter`.
+  - **Java JWT**: Para trabajar con JSON Web Tokens (JWT) en la autenticación.
+  - **Spring Boot Starter Test**: Conjunto de herramientas para realizar pruebas unitarias e integración.
+
+
+---
+
+
 
 ## ✨ Funcionalidades
 
