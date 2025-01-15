@@ -16,12 +16,13 @@ Este proyecto es una **API REST** desarrollada en Java utilizando el framework *
 
 La API proporciona las siguientes funcionalidades:
 
-1. [**Login de un usuario:**](#login-de-un-usuario) Restringe el acceso a usuarios autenticados.
-2. **Crear un nuevo tópico:** Los usuarios pueden registrar nuevos temas para discusión.
-3. **Mostrar todos los tópicos:** Recupera una lista paginada de todos los tópicos activos.
-4. **Mostrar un tópico específico:** Consulta los detalles de un tópico utilizando su ID.
-5. **Actualizar un tópico:** Permite modificar las informaciones de un tópico existente.
-6. **Eliminar un tópico:** Implementa un borrado lógico, desactivando el tópico sin eliminarlo físicamente de la base de datos por medio de banderas.
+1. [**Login de un usuario:**](#login-de-un-usuario) Restringe el acceso a usuarios autenticados.  
+2. [**Crear un nuevo tópico:**](#crear-un-nuevo-tópico) Los usuarios pueden registrar nuevos temas para discusión.  
+3. [**Mostrar todos los tópicos:**](#mostrar-todos-los-tópicos) Recupera una lista paginada de todos los tópicos activos.  
+4. [**Mostrar un tópico específico:**](#mostrar-un-tópico-específico) Consulta los detalles de un tópico utilizando su ID.  
+5. [**Actualizar un tópico:**](#actualizar-un-tópico) Permite modificar las informaciones de un tópico existente.  
+6. [**Eliminar un tópico:**](#eliminar-un-tópico) Implementa un borrado lógico, desactivando el tópico sin eliminarlo físicamente de la base de datos por medio de banderas.
+
 
 ---
 
